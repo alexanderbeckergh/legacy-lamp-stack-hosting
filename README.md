@@ -13,3 +13,4 @@ Hier liegt kein Showcase moderner Kubernetes-Magie, sondern ehrliche Systemarbei
 „Dieses Projekt wurde im Rahmen meiner Requalifizierung als DevOps Engineer erstellt.“
 
 
+- Shell-Skript erstellt; 
