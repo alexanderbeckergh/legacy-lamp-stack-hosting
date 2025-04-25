@@ -14,3 +14,4 @@ Hier liegt kein Showcase moderner Kubernetes-Magie, sondern ehrliche Systemarbei
 
 
 - Shell-Skript erstellt; 
+- PATH
