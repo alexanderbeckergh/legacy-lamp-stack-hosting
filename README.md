@@ -9,3 +9,7 @@ Hier liegt kein Showcase moderner Kubernetes-Magie, sondern ehrliche Systemarbei
 - Backup-Strategien (manuell & via UpdraftPlus)
 - Monetarisierung & SEO aus der Praxis
 - Lessons learned über echte Systemverantwortung
+
+„Dieses Projekt wurde im Rahmen meiner Requalifizierung als DevOps Engineer erstellt.“
+
+
